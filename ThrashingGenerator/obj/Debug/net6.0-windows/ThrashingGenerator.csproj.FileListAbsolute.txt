@@ -1,0 +1,17 @@
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\bin\Debug\net6.0-windows\ThrashingGenerator.exe
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\bin\Debug\net6.0-windows\ThrashingGenerator.deps.json
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\bin\Debug\net6.0-windows\ThrashingGenerator.runtimeconfig.json
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\bin\Debug\net6.0-windows\ThrashingGenerator.dll
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\bin\Debug\net6.0-windows\ThrashingGenerator.pdb
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.Form1.resources
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.AssemblyInfoInputs.cache
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.AssemblyInfo.cs
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.dll
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\refint\ThrashingGenerator.dll
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.pdb
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ThrashingGenerator.genruntimeconfig.cache
+C:\Users\Nir\source\repos\NirKors\Homework\ThrashingGenerator\obj\Debug\net6.0-windows\ref\ThrashingGenerator.dll
